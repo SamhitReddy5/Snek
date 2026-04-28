@@ -6,7 +6,7 @@ Snek is a mobile adaptation of the classic Snake game, developed using Unity. Th
 
 ## Demo
 
-[![Watch Gameplay](thumbnail.png)](gameplay.mp4)
+[![Watch Gameplay](Thumbnail (2).png)](Snek Gameplay.mp4)
 
 ---
 
